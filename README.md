@@ -47,3 +47,8 @@ Este projeto tem como objetivo demonstrar habilidades em testes manuais, anális
 
 ## 🚀 Conclusão
 O projeto cobre o fluxo crítico da aplicação, identificando falhas que impactam diretamente a experiência do usuário e o negócio.
+
+## 📊 Destaques
+- Cobertura do fluxo crítico de compra
+- Identificação de bugs de alta severidade
+- Escrita de cenários BDD prontos para automação
