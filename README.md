@@ -1,50 +1,49 @@
-🎯 Objetivo do projeto
-Validar a qualidade da aplicação SauceDemo, garantindo que as principais funcionalidades (login, carrinho e checkout) funcionem corretamente.
+# 🧪 QA Portfolio - SauceDemo
 
-📌 Escopo
-Incluído:
+## 📌 Objetivo
+Este projeto tem como objetivo demonstrar habilidades em testes manuais, análise de qualidade e documentação profissional utilizando a aplicação SauceDemo.
 
-Login
-Listagem de produtos
-Carrinho
-Checkout
+---
 
-Não incluído:
+## 🔍 Escopo de Testes
+- Login
+- Navegação de produtos
+- Carrinho
+- Checkout
+- Finalização de compra
 
-Testes de performance
-Testes de segurança
-Integrações externas
+---
 
+## 🧪 Tipos de Teste Aplicados
+- Testes funcionais
+- Testes exploratórios
+- BDD (Behavior Driven Development)
 
-🧪 Tipos de teste
-Testes Manuais 
+---
 
-⚠️ Riscos
-📊 O que você validou
+## 🗂 Estrutura do Projeto
+/test-plan  
+/test-cases  
+/bug-reports  
+/bdd  
+/evidence  
 
-🎯 Objetivo do projeto
-Validar a qualidade da aplicação SauceDemo, garantindo que as principais funcionalidades (login, carrinho e checkout) funcionem corretamente.
+---
 
-📌 Escopo
+## 🐞 Principais Bugs Encontrados
+- BUG-001: Falha no login
+- BUG-005: Campo "Last Name" não permite edição
+-
 
+---
 
+## 🧠 Ferramentas e Conceitos
+- Gherkin (BDD)
+- Test Design
+- Bug Reporting
+- Git e GitHub
 
-Incluído:
+---
 
-Login
-Listagem de produtos
-Carrinho
-Checkout
-
-Não incluído:
-
-Testes de performance
-Testes de segurança
-Integrações externas
-
-
-🧪 Tipos de teste
-Testes Manuais 
-
-⚠️ Riscos
-📊 O que você validou
+## 🚀 Conclusão
+O projeto cobre o fluxo crítico da aplicação, identificando falhas que impactam diretamente a experiência do usuário e o negócio.
