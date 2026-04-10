@@ -1,0 +1,14 @@
+aso de Teste: Removendo elemento do carrinho
+
+ID: TC-008
+Cenário: Usuário stastandard_user consegue remover elemento do carrinho
+
+Passos:
+
+Estar na tela principal
+Apertar o botão remove
+
+
+Resultado esperado:
+
+O elemento que o usuário escolheu foi removido do carrinho 

@@ -1,0 +1,19 @@
+Caso de Teste: Adicionando mais de um elemento ao carrinho
+
+ID: TC-008
+Cenário: Usuário standard_user consegue adicionar vários elementos ao carrinho
+
+Passos:
+
+Realizar login com sucesso
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+Apertar o botão add to cart 
+
+Resultado esperado:
+
+Os elementos que o usuário escolheu foram adicionados ao carrinho 
