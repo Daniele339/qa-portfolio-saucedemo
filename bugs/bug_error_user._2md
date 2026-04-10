@@ -1,0 +1,23 @@
+Defeitos na tela principal
+
+ID: BUG-005
+Severidade: Alta
+Prioridade: Alta
+
+Descrição:
+A tela principal tem a opção de ordenar os elementos o 
+usuário clica e recebe uma mensagem de erro
+Passos:
+
+Realizar login com o usuário error_user
+Entrar na tela principal 
+Clicar no campo de seleção e escolher um modo de ordenação
+O sistema mostra a seguinte mensagem 
+Sorting is broken! This error has been reported to Backtrace.
+
+esultado esperado:
+Ordenar elementos da tela principal
+
+Resultado atual:
+O usuário clica no campo de seleção e recebe a seguinte mensagem 
+Sorting is broken! This error has been reported to Backtrace.

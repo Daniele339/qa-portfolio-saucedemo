@@ -1,0 +1,15 @@
+Caso de Teste: Login com usuário bloqueado
+
+ID: TC-002
+Cenário: Usuário não realiza login com sucesso
+
+Passos:
+
+Acessar o site
+Inserir usuário válido
+Inserir senha   válida
+Clicar em login
+
+Resultado esperado:
+
+Usuário é recebe a mensagem Epic sadface: Sorry, this user has been locked out.

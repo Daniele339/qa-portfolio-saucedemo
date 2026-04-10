@@ -1,0 +1,26 @@
+Defeitos na tela de informações do usuário
+
+ID: BUG-005
+Severidade: Alta
+Prioridade: Alta
+
+Descrição:
+Na tela de informações do usuário o campo Last Name não permite a edição 
+
+
+Passos:
+
+Realizar login com o usuário error_user
+Entrar na tela principal 
+Adicionar elementos ao carrinho
+Clicar no carrinho 
+Ver a tela de checkout e clicar em checkout 
+Ver a tela de informações do usuário 
+Ir no campo Last Name
+
+
+Resultado esperado:
+Inserir as informações do usuário e clicar em continue e ir para tela de informações da compra 
+
+Resultado atual:
+O usuário clica no campo de Last Name e não consegue inserir dado
