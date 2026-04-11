@@ -31,7 +31,7 @@ Este projeto tem como objetivo demonstrar habilidades em testes manuais, anális
 ---
 
 ## 🐞 Principais Bugs Encontrados
-- BUG-001: Falha no login
+- BUG-001: Erro de UI 
 - BUG-005: Campo "Last Name" não permite edição
 -
 
