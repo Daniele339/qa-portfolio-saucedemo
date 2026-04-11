@@ -14,10 +14,13 @@ ID	Risco	Impacto	Probabilidade
 R-01	Falha no login com usuários inválidos	Alto	Médio
 R-02	Carrinho não atualiza corretamente	Alto	Alto
 R-03	Checkout com dados incompletos	Médio	Alto
+
+
 🐞 Principais problemas encontrados
 Botão de login apresenta comportamento inconsistente
 Informações de produto não são exibidas corretamente em alguns cenários
 Fluxo de checkout permite avançar sem validação adequada
+
 🧠 Análise técnica
 
 A aplicação apresenta falhas principalmente em:
@@ -30,15 +33,21 @@ A aplicação apresenta falhas principalmente em:
 
 Front-end (validações)
 Regras de negócio mal implementadas
+
+
 📉 Impacto no usuário
 Usuário pode não conseguir finalizar compra
 Experiência inconsistente
 Perda de confiança no sistema
+
+
 🚀 Sugestões de melhoria
 Implementar validação mais robusta no login
 Garantir atualização correta do carrinho
 Melhorar mensagens de erro (mais claras)
 Adicionar testes automatizados para fluxos críticos
+
+
 🧪 Estratégia recomendada
 ✔ Testes automatizados com Cypress
 ✔ Testes regressivos no fluxo de compra
