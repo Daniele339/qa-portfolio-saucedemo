@@ -1,4 +1,5 @@
 🧾 Análise Crítica – Sistema SauceDemo
+
 🎯 Objetivo
 
 Avaliar a qualidade da aplicação, identificando riscos, falhas e oportunidades de melhoria com base nos testes executados.
