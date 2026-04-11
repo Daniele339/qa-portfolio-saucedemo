@@ -1,14 +1,13 @@
 Funcionalidade: Finalizar compra
 
-Dado que o usuário está logado no sistema 
-E possui produto no carrinho
-E entrou na tela com visualização dos produtos 
-E clicou em checkout
-E preencheu o formulário 
-E clicou em continue 
-E foi para a tela com dados dos produtos e valores
+Cenário: Finalizar fluxo completo de compra com sucesso
 
-
-Quando ele clica em finish
-
-Então abre uma tela de finalizar compra 
+Dado que o usuário está logado no sistema
+E adicionou um produto ao carrinho
+Quando ele acessa o carrinho
+E clica no botão "Checkout"
+E preenche os dados obrigatórios do formulário
+E clica no botão "Continue"
+E clica no botão "Finish"
+Então o sistema deve exibir a mensagem "Thank you for your order!"
+E a compra deve ser concluída com sucesso
